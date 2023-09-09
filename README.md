@@ -12,5 +12,5 @@ Este projeto utiliza a biblioteca ngx-leaflet para criar um mapa interativo que 
 
 - Dados de Aeroportos: O projeto utiliza dados reais de aeroportos no Brasil para exibir informações relevantes, como nome do aeroporto, localização geográfica e outros detalhes úteis.
 
-![alt text]([https://github.com/brendogomes/leaflet-map/blob/master/img/leaflet-map.png](https://github.com/brendogomes/angular-markercluster-brazil-airports/blob/main/img/image.png)https://github.com/brendogomes/angular-markercluster-brazil-airports/blob/main/img/image.png?raw=true)
+![alt text]([https://github.com/brendogomes/angular-markercluster-brazil-airports/blob/main/img/image.png]?raw=true)
 
