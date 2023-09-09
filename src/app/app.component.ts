@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'live-location-map-angular-leaflet';
+  title = 'angular-markercluster-brazil-airports';
 }
